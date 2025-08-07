@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">My Speed.X.Meter</string>
+<string name="start">Start</string>
+<string name="stop">Stop</string>
+<string name="reset">Reset</string>
+<string name="trip_log">Trip Log</string>
+</resources>
